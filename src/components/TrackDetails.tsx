@@ -65,15 +65,3 @@ export default function DetailPage() {
 //  <ListGroup.Item>Duration: {trackDetails.duration}s</ListGroup.Item>
 //  <ListGroup.Item>Release Date: {trackDetails.release_date}</ListGroup.Item>
 // </ListGroup>
-
-
-// <Card className="bg-dark text-white">
-//   <Card.Img src={trackDetails.album.cover_big} />
-//   <Card.ImgOverlay>
-//     <Card.Title>{trackDetails.title}</Card.Title>
-//     <Card.Text>
-//       {trackDetails.artist.name}
-//     </Card.Text>
-//     <Card.Text>{trackDetails.album.title}</Card.Text>
-//   </Card.ImgOverlay>
-// </Card>
